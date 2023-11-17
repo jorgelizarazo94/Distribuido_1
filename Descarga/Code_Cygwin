@@ -1,0 +1,224 @@
+ASUS@DESKTOP-PV6K7NV ~
+$ cd /cygdrive/e
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ wget --no-check-certificate -O datag-p2.zip "https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EQh7AzMdFCFPsobZz8f5NRwBwldA0c5arCxV0WScl20FZA?e=xyGTyQ&download=1"
+--2023-11-16 14:18:59--  https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EQh7AzMdFCFPsobZz8f5NRwBwldA0c5arCxV0WScl20FZA?e=xyGTyQ&download=1
+Resolving icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)... 13.107.138.10, 13.107.136.10, 2620:1ec:8fa::10, ...
+Connecting to icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)|13.107.138.10|:443... connected.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ is not trusted.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ doesn't have a known issuer.
+HTTP request sent, awaiting response... 302 Found
+Location: /personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p2.zip?ga=1 [following]
+--2023-11-16 14:19:00--  https://icesiedu-my.sharepoint.com/personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p2.zip?ga=1
+Reusing existing connection to icesiedu-my.sharepoint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6443229928 (6.0G) [application/x-zip-compressed]
+Saving to: ‘datag-p2.zip’
+
+datag-p2.zip                100%[===========================================>]   6.00G  1.64MB/s    in 3h 4m
+
+2023-11-16 17:23:46 (568 KB/s) - ‘datag-p2.zip’ saved [6443229928/6443229928]
+
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ wget --no-check-certificate -O datag-p3.zip "https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1"
+--2023-11-16 17:26:12--  https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1
+Resolving icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)... 52.107.247.76, 52.107.247.60, 52.107.247.101, ...
+Connecting to icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)|52.107.247.76|:443... connected.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ is not trusted.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ doesn't have a known issuer.
+HTTP request sent, awaiting response... 302
+Location: /personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1 [following]
+--2023-11-16 17:26:13--  https://icesiedu-my.sharepoint.com/personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1
+Reusing existing connection to icesiedu-my.sharepoint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5720736254 (5.3G) [application/x-zip-compressed]
+Saving to: ‘datag-p3.zip’
+
+datag-p3.zip                100%[===========================================>]   5.33G  2.75MB/s    in 44m 6s
+
+2023-11-16 18:10:20 (2.06 MB/s) - ‘datag-p3.zip’ saved [5720736254/5720736254]
+
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+
+ test of datag-p1.zip OK
+
+real    0m47.014s
+user    0m29.686s
+sys     0m3.748s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ wget --no-check-certificate -O datag-p3.zip "https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1"
+--2023-11-16 18:12:23--  https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1
+Resolving icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)... 13.107.138.10, 13.107.136.10, 2620:1ec:8f8::10, ...
+Connecting to icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)|13.107.138.10|:443... connected.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ is not trusted.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ doesn't have a known issuer.
+HTTP request sent, awaiting response... 302 Found
+Location: /personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1 [following]
+--2023-11-16 18:12:24--  https://icesiedu-my.sharepoint.com/personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1
+Reusing existing connection to icesiedu-my.sharepoint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5720736254 (5.3G) [application/x-zip-compressed]
+datag-p3.zip                  1%[                                            ]  84.29M  4.19MB/s    eta 24m 35s
+datag-p3.zip                  1%[                                            ]  87.12M  4.29MB/s    eta 24m 18s
+datag-p3.zip                  2%[                                            ] 121.82M  4.40MB/s    eta 23m 54s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datag-p1.zip
+time zip -T datag-p2.zip
+time zip -T datag-p3test of datag-p1.zip OK
+
+real    0m29.145s
+user    0m26.015s
+sys     0m2.998s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datag-p2.zip
+
+test of datag-p2.zip OK
+
+real    0m51.369s
+user    0m29.499s
+sys     0m3.467s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datag
+
+zip error: Nothing to do! (datag.zip)
+
+real    0m0.023s
+user    0m0.015s
+sys     0m0.015s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datag-p3.zip
+        zip warning: missing end signature--probably not a zip file (did you
+        zip warning: remember to use binary mode when you transferred it?)
+        zip warning: (if you are trying to read a damaged archive try -F)
+
+zip error: Zip file structure invalid (datag-p3.zip)
+
+real    0m0.345s
+user    0m0.015s
+sys     0m0.030s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ wget --no-check-certificate -O datag-p3.zip "https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1"
+--2023-11-16 18:20:09--  https://icesiedu-my.sharepoint.com/:u:/g/personal/16282252_icesi_edu_co/EfYxbZUWFCRMu4CuqAo7i_QBXrqtZjykKQOmO63Lx1onbw?e=OGSZh6&download=1
+Resolving icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)... 13.107.136.10, 13.107.138.10, 2620:1ec:8f8::10, ...
+Connecting to icesiedu-my.sharepoint.com (icesiedu-my.sharepoint.com)|13.107.136.10|:443... connected.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ is not trusted.
+WARNING: The certificate of ‘icesiedu-my.sharepoint.com’ doesn't have a known issuer.
+HTTP request sent, awaiting response... 302 Found
+Location: /personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1 [following]
+--2023-11-16 18:20:10--  https://icesiedu-my.sharepoint.com/personal/16282252_icesi_edu_co/Documents/Cursos/MCD-ProcesamientoDistribuidoDatos/StudentKit0-Tools-Data/datagrams/datag-nonstd-p3.zip?ga=1
+Reusing existing connection to icesiedu-my.sharepoint.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5720736254 (5.3G) [application/x-zip-compressed]
+Saving to: ‘datag-p3.zip’
+
+datag-p3.zip                100%[===========================================>]   5.33G  4.95MB/s    in 26m 45s
+
+2023-11-16 18:46:56 (3.40 MB/s) - ‘datag-p3.zip’ saved [5720736254/5720736254]
+
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datag-p3.zip
+test of datag-p3.zip OK
+
+real    0m24.806s
+user    0m22.452s
+sys     0m2.155s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ date; unzip datag-p1.zip; unzip datag-p2.zip; unzip datag-p3.zip; date
+Thu Nov 16 18:50:10 -05 2023
+Archive:  datag-p1.zip
+  inflating: datagaa
+
+Archive:  datag-p2.zip
+  inflating: datagab
+Archive:  datag-p3.zip
+  inflating: datagac
+Thu Nov 16 19:02:48 -05 2023
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ cat datagaa datagab datagac > datagrams-std.zip
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time zip -T datagrams-std.zip
+test of datagrams-std.zip OK
+
+real    7m58.435s
+user    7m44.983s
+sys     0m8.544s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ time unzip datagrams-std.zip
+Archive:  datagrams-std.zip
+  inflating: datagrams-nonstd.csv
+
+real    40m23.550s
+user    12m50.547s
+sys     3m37.249s
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ wc -l datagrams-nonstd.csv
+814547049 datagrams-nonstd.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ head datagrams-nonstd.csv
+0,02-MAY-19,-1,-1,34957233,-765048150,1034,2801,9995,6194752168,02-MAY-19 05.15.39.000000 AM,213
+0,02-MAY-19,514484,-1,34103867,-764789850,163,357,182,6194752169,02-MAY-19 05.15.39.000000 AM,268
+0,02-MAY-19,516192,201,33913983,-765239350,16,2212,362,6194752170,02-MAY-19 05.15.39.000000 AM,638
+0,02-MAY-19,513105,37,34695883,-764853100,764,2273,324,6194752171,02-MAY-19 05.15.39.000000 AM,1170
+0,02-MAY-19,-1,-1,34979267,-765019417,-1,-1,-1,6194752172,02-MAY-19 05.15.39.000000 AM,192
+0,02-MAY-19,518194,124,34290000,-765167867,947,2524,359,6194752173,02-MAY-19 05.15.39.000000 AM,1068
+0,02-MAY-19,511360,-1,33310150,-765327533,820,3191,335,6194752174,02-MAY-19 05.15.39.000000 AM,123
+0,02-MAY-19,514507,32,34341117,-764906183,148,385,8,6194752175,02-MAY-19 05.15.39.000000 AM,290
+0,02-MAY-19,514080,412,34547567,-764823717,836,2241,313,6194752176,02-MAY-19 05.15.39.000000 AM,794
+0,02-MAY-19,-1,-1,34434167,-764838267,364,140,9876,6194752177,02-MAY-19 05.15.39.000000 AM,219
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ awk -F, '$3 != -1 && $4 != -1' datagrams-nonstd.csv > datagrams.csv
+
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ awk -F, '$11 == "28-APR-19"' datagrams-nonstd.csv > output-28-APR-19.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ head output-28-APR-19.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ head output-28-APR-19.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ head output-28-APR-19.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ awk -F, '$2 == "28-APR-19"' datagrams-nonstd.csv > output-28-APR-19.csv
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$ head output-28-APR-19.csv
+0,28-APR-19,500450,5,34626367,-765179900,432,131,416,6186982087,27-APR-19 05.27.37.000000 PM,309
+0,28-APR-19,-1,-1,33586667,-765115033,-1,-1,-1,6186982088,27-APR-19 05.27.37.000000 PM,389
+0,28-APR-19,516107,238,34018233,-765044967,138,352,71,6186982089,27-APR-19 05.27.37.000000 PM,748
+0,28-APR-19,-1,11483,33586867,-765120217,-1,-1,-1,6186982090,27-APR-19 05.27.37.000000 PM,396
+0,28-APR-19,513101,61,34679017,-765017767,189,282,146,6186982091,27-APR-19 05.27.37.000000 PM,169
+0,28-APR-19,502401,49,34643233,-765246917,206,2521,120,6186982092,27-APR-19 05.27.37.000000 PM,176
+0,28-APR-19,502313,31,33666983,-765282617,203,318,209,6186982093,27-APR-19 05.27.37.000000 PM,203
+0,28-APR-19,-1,5450,34303133,-764750750,-1,999,-1,6186982094,27-APR-19 05.27.37.000000 PM,968
+0,28-APR-19,513251,25,34879233,-765008083,256,2273,530,6186982095,27-APR-19 05.27.37.000000 PM,1156
+0,28-APR-19,-1,-1,33671417,-765290950,-1,-1,-1,6186982096,27-APR-19 05.27.37.000000 PM,855
+
+ASUS@DESKTOP-PV6K7NV /cygdrive/e
+$
